@@ -14,3 +14,5 @@ Then I added a two dimensional graph that represents the relationship between th
 
 ![](visualizations/coins_2d.png)
 
+## Summary
+
