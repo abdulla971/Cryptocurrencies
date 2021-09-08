@@ -10,3 +10,5 @@ I cleaned the data to keep actively traded cryptocurrencies, and that also a def
 
 ![](visualizations/clustered_3d.png)
 
+Then I added a two dimensional graph that represents the relationship between the total coin supply and the total coins mined this was done to compare each currency to the rest, also it is well noted that each point has its currency name.
+
