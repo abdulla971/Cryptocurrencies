@@ -16,3 +16,5 @@ Then I added a two dimensional graph that represents the relationship between th
 
 ## Summary
 
+Looking at the three dimensional graph, we observe that there is four different groups. There is two clear groups that are close to each other with almost all currencies falling within these two groups. One other group has a small number of currencies that act similarly, with few outliers. It is well noted that the outliers can be either over performers and under performers, however this needs further analysis to determine which is which. To do that I think of examining the total coin supply vs total coins mined graph. For the two main groups have the data mainly between 0% and 40% of the largest currency that is based on volume.  It is noted that the group with the fewest currencies is placed close to 0% of the largest currency., on the other hand the group with one currency is at 100% since it is the largest,
+
